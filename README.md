@@ -1,2 +1,2 @@
 # humanidades_digitales
-Revisión del manifiesto de Humanidades digitales con una finalidad colaborativa, para ampliar su horizonte y posibilidades. Se aceptan nuevas contribuciones al texto original planteado en el That Camp.
+Revisión de los manifiestos de Humanidades digitales con una finalidad colaborativa, con el fin de crear un texto más preciso que incluya a las humanidades espaciales o geohumanidades y otras expresiones artísticas y culturales, poniendo especial atención a su finalidad y funcionalidad.
