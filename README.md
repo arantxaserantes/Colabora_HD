@@ -22,3 +22,6 @@ Interdisciplining Digital Humanities: https://quod.lib.umich.edu/d/dh/12869322.0
 Shawna Ross: http://www.shawnaross.com/manifesto/
 
 
+Una excelente compilación de manifiestos digitales: https://www.digitalmanifesto.net/manifestos/
+
+
