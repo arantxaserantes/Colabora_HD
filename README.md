@@ -1,7 +1,8 @@
 # humanidades_digitales
-Revisión de los manifiestos de Humanidades digitales con carácter colaborativo. La finalidad del repositorio sería crear un texto más preciso en español que incluya a las humanidades espaciales o geohumanidades así como otras expresiones artísticas y culturales, poniendo especial atención a su finalidad y funcionalidad. Las contribuciones pueden realizarse a través de Twitter @manifiesto_hd con el hashtag: #manifiestohd y a través de un PAD que figurará en esta red social y recogerá todas las contribuciones y anotaciones. Se tomará como base el texto del That Camp París (2011).
+Es cada vez más necesaria, una definición de las Humanidades digitales del Sur o hispánicas, con carácter colaborativo. La finalidad de este repositorio sería crear un texto más preciso que incluya a las humanidades espaciales o geohumanidades así como otras expresiones artísticas y culturales, poniendo especial atención a su finalidad y funcionalidad. Las contribuciones pueden realizarse a través de Twitter @colabora_hd con el hashtag: #definehd18 y a través de un mapa geoposicionado, realizado vía Emapic, que recogerá todas las contribuciones y anotaciones. 
+Una vez recogidos todos los comentarios, se hará una edición crítica en el marco del proyecto playlist_HD. Se admitirán artículos y reflexiones de autor, además de los tuits o comentarios que surjan en las plataformas mencionadas con anterioridad.
 
-Se aconseja visitar los siguientes sitios:
+Se aconseja visitar los siguientes sitios, a modo de inspiración o sugerencia:
 
 
 Manifiesto UCLA: http://manifesto.humanities.ucla.edu/
