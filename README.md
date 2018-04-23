@@ -1,6 +1,10 @@
 # humanidades_digitales
-Es cada vez más necesaria, una definición de las Humanidades digitales del Sur o hispánicas, con carácter colaborativo. La finalidad de este repositorio sería crear un texto más preciso que incluya a las humanidades espaciales o geohumanidades así como otras expresiones artísticas y culturales, poniendo especial atención a su finalidad y funcionalidad. Las contribuciones pueden realizarse a través de Twitter @colabora_hd con el hashtag: #definehd18 y a través de un mapa geoposicionado, realizado vía Emapic, que recogerá todas las contribuciones y anotaciones. 
+Es cada vez más necesaria, una definición de las Humanidades digitales del Sur o hispánicas, con carácter colaborativo. La finalidad de este repositorio sería crear un texto más preciso que incluya a las humanidades espaciales o geohumanidades así como otras expresiones artísticas y culturales, poniendo especial atención a su finalidad y funcionalidad. Las contribuciones pueden realizarse a través de Twitter **@colabora_hd con el hashtag: #definehd18 y a través de un mapa geoposicionado, realizado vía Emapic, que recogerá todas las contribuciones y anotaciones.** 
 Una vez recogidos todos los comentarios, se hará una edición crítica en el marco del proyecto playlist_HD. Se admitirán artículos y reflexiones de autor, además de los tuits o comentarios que surjan en las plataformas mencionadas con anterioridad.
+
+
+# MAPA COLABORATIVO: https://emapic.es/survey/bCGfKO4
+
 
 Se aconseja visitar los siguientes sitios, a modo de inspiración o sugerencia:
 
