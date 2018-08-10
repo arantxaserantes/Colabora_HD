@@ -29,4 +29,12 @@ Shawna Ross: http://www.shawnaross.com/manifesto/
 
 Una excelente compilación de manifiestos digitales: https://www.digitalmanifesto.net/manifestos/
 
+**PARTICIPACIÓN EN EL MAPA**
+
+Análisis con la herramienta Tweepsmap:
+
+![](https://github.com/arantxaserantes/Colabora_HD/blob/master/Graficos/tweepsmap%20colaborahd.JPG)
+
+![](https://github.com/arantxaserantes/Colabora_HD/blob/master/Graficos/tweepsmap%20colabora2.JPG)
+
 
