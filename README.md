@@ -38,7 +38,7 @@ Por países:
 
 ![](https://github.com/arantxaserantes/Colabora_HD/blob/master/Graficos/tweepsmap%20colaborahd.JPG)
 
-En función de la geolocalizaión proporcionada por Emapic:
+En función de la geolocalización proporcionada por Emapic:
 
 ![](https://github.com/arantxaserantes/Colabora_HD/blob/master/Graficos/tweepsmap%20colabora2.JPG)
 
